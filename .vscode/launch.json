@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NotenrechnerApplication<notenrechner>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "education.notenrechner.NotenrechnerApplication",
+            "projectName": "notenrechner",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
